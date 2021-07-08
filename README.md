@@ -1,4 +1,4 @@
-# SendTip : Tip Your Favorite Creators with Matic
+# SendTip.xyz : Tip Your Favorite Creators with Matic
 
 SendTip is a proof of concept that enables users to donate to content creators on Twitter via their twitter usernames.
 Recipients can then login via twitter and claim their donations.
